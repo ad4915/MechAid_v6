@@ -1,0 +1,98 @@
+body { 
+    padding-top: 65px; 
+}
+
+h3{
+	
+padding-top: 35px; 
+}
+
+#imperial{
+height: 5.8vh
+}
+
+
+
+#exception{
+padding-top: 0px;	
+	
+}
+
+.dropdown-item.hover, .dropdown-item:hover {
+    color: blue;
+    background-color: #2471A3;
+}
+
+/* #button{ */
+	/* width:50px; */
+	/* height:60px; */
+	/* } */
+
+#button:hover {
+opacity:0.7;
+cursor:pointer;
+cursor:hand;
+}
+
+#button:active {
+  background-color: #1F618D;
+  /* box-shadow: 0 5px #666; */
+  transform: translateY(3px);
+}
+
+#TheProcess { padding-top: 65px; 
+  margin-top: -65px;}
+  
+  #TipstoSecureanInternship { padding-top: 65px; 
+  margin-top: -65px;}
+  
+  #HowtoPrepareforSpring-weekInterviews { padding-top: 65px; 
+  margin-top: -65px;}
+  
+  #Divisions { padding-top: 65px; 
+  margin-top: -65px;}
+  
+  
+
+#cars{
+color: black; 
+text-align: left;
+ font-weight: 400;
+
+}
+
+/* #cars2{ */
+/* color: black;  */
+/* text-align: left; */
+/* } */
+
+/* #cars3{ */
+/* color: black;  */
+/* text-align: left; */
+/* } */
+
+
+
+
+.carousel-caption {
+   position: absolute;
+   
+   left:20px;
+   top: -4px
+   
+}
+
+
+
+.carousel-item {
+  height: 75vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
